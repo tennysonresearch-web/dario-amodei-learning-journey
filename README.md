@@ -222,7 +222,7 @@ make html
 4. **"Concrete problems in AI safety"** - 3,685 citations
 5. **"Deep Speech 2: End-to-end speech recognition"** - 4,086 citations
 
-**[Complete reading list with 47 papers →](./planning/paper-reading-list.md)**
+**[Complete reading list with 47 papers →](planning/paper-reading-list.md)**
 
 ### Implementation Guides
 - **[Phase 1: Neural Population Dynamics](phase-1-neuroscience/README.md)** - Statistical mechanics and information theory
